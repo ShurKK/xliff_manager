@@ -1,0 +1,15 @@
+{
+  "name": "xliff-formatter",
+  "version": "1.0.0",
+  "description": "tool for WPML xliff exported files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.3.0",
+    "typescript": "^5.5.4"
+  }
+}
